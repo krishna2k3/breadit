@@ -32,4 +32,4 @@ const UserAvatar: FC<UserAvatarProps> = ({ user, ...props }) => {
   );
 };
 
-export default UserAvatar;
+export {UserAvatar};
